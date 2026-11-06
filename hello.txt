@@ -1,3 +1,4 @@
 Updated application
 Webhook automatic test 2
 Testing webhook after ngrok restart
+Testing automatic Jenkins trigger
